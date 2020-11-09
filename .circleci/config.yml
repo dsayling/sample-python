@@ -4,7 +4,7 @@ orbs:
   # The node orb contains a set of prepackaged circleci configuration you can use
   # Orbs commands and jobs help you with common scripting around a language/tool
   # so you dont have to copy and paste it everywhere.
-  node: circleci/python@1.2
+  python: circleci/python@1.2
 
 workflows:
   sample:
